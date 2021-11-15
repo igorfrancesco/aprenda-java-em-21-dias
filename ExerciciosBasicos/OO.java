@@ -1,3 +1,4 @@
+package ExerciciosBasicos;
 class Conta {
       
       private int numero;
@@ -16,6 +17,14 @@ class Conta {
       
       }
       
+      public int getNumero() {
+         return numero;
+      }
+
+      public void setNumero(int numero) {
+         this.numero = numero;
+      }
+
       public void deposita(double valor){
       this.saldo += valor;
       }

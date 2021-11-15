@@ -1,3 +1,4 @@
+package ExerciciosBasicos;
 /*
 
 class ExercicioX {
