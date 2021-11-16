@@ -8,7 +8,13 @@ public class Variaveis {
         int idade = 29;
         boolean casado = false;
 
-        System.out.println("Texto");
+        byte b = 127;
+        short s = (short) 32768;
+
+        System.out.println("********************************");
+
+        Double preco = new Double (20.69);
+
     }
 
 }
